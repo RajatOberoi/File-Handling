@@ -1,1 +1,0 @@
-['doing\n', 'how\n', 'you\n']
